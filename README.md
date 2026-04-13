@@ -20,6 +20,6 @@
   𝖠𝗇𝖽 𝖽𝗈𝗇'𝗍 𝗐𝗈𝗋𝗋𝗒 𝗂𝖿 𝖨 𝖽𝗂𝖽𝗇'𝗍 𝗍𝖺𝗅𝗄 𝖻𝖺𝖼𝗄 𝗍𝗈 𝗒𝗈𝗎 (𝗂𝗇 𝗀𝖺𝗆𝖾), 𝖨'𝗆 𝗇𝗈𝗍 𝗀𝗈𝗈𝖽 𝖺𝗍 𝗍𝖺𝗅𝗄𝗂𝗇𝗀 𝗍𝗈 𝗉𝖾𝗈𝗉𝗅𝖾 𝖻𝖾𝖼𝖺𝗎𝗌𝖾 𝗌𝗈𝗆𝖾𝗍𝗂𝗆𝖾𝗌 𝖨 𝗁𝖺𝗏𝖾 𝗇𝗈 𝗂𝖽𝖾𝖺 𝗐𝗁𝖺𝗍 𝗍𝗈 𝗌𝖺𝗒 𝖻𝖺𝖼𝗄. </br> 𝖨𝗍 𝖽𝗈𝖾𝗌𝗇'𝗍 𝗆𝖾𝖺𝗇 𝖨 𝖽𝗂𝗌𝗅𝗂𝗄𝖾 𝗒𝗈𝗎!
 </p>
 
-<h2 align="center">
-  𓆩♡𓆪 𝒩𝒾𝒸𝑒 𝓉𝑜 𝓂𝑒𝑒𝓉 𝓎𝑜𝓊 𓆩♡𓆪
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Nice+to+meet+you" alt="Nice to meet you" />
+</p>
