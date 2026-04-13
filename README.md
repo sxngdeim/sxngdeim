@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zoro.gif" width="85%">
+  <img src="zoro.gif" width="70%">
 </p>
 
 <h1 align="center">
