@@ -7,11 +7,15 @@
 </h1>
 
 <p align="center">
-  Hello! You can call me 'Zol' </br> I actually in  many fandom, but currently in One Piece </br> I'm a slow watcher, and now in Skypiea Arc! (13/04/26)
+  Hello! You can call me 'Zol' </br> I actually in  many fandom, but currently in One Piece </br> I'm a slow watcher, and now on Skypiea Arc! (13/04/26)
 </p>
 
 <p align="center">
   My OTP ship are Zosan, Lulaw, Shanksmi, Dofuwani (no switch, srry)
+</p>
+
+<p align="center">
+I mostly active on fb and instagram, feel free to follow and make friend!
 </p>
 
 <h2 align="center">
