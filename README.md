@@ -2,9 +2,7 @@
   <img src="zoro.gif" width="70%">
 </p>
 
-<h1 align="center">
-  ✧･ﾟ: *✧･ﾟ:* ☠︎︎ 𝓩𝓸𝓵 ☠︎︎ *:･ﾟ✧*:･ﾟ✧
-</h1>
+<p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Zol" alt="Zol" /></p>
 
 <p align="center">
   𝖧𝖾𝗅𝗅𝗈! 𝖸𝗈𝗎 𝖼𝖺𝗇 𝖼𝖺𝗅𝗅 𝗆𝖾 '𝖹𝗈𝗅' </br> 𝖨 𝖺𝖼𝗍𝗎𝖺𝗅𝗅𝗒 𝗂𝗇  𝗆𝖺𝗇𝗒 𝖿𝖺𝗇𝖽𝗈𝗆, 𝖻𝗎𝗍 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗂𝗇 𝖮𝗇𝖾 𝖯𝗂𝖾𝖼𝖾 </br> 𝖨'𝗆 𝖺 𝗌𝗅𝗈𝗐 𝗐𝖺𝗍𝖼𝗁𝖾𝗋, 𝖺𝗇𝖽 𝗇𝗈𝗐 𝗈𝗇 𝖲𝗄𝗒𝗉𝗂𝖾𝖺 𝖠𝗋𝖼!
