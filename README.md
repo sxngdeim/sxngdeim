@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zoro.gif" width="90%">
+  <img src="zoro.gif" width="85%">
 </p>
 
 <h1 align="center">
@@ -16,6 +16,10 @@
 
 <p align="center">
 I mostly active on fb and instagram, feel free to follow and make friend!
+</p>
+
+<p align="center">
+  And don't worry if I didn't talk back to you (in game), I'm not good at talking to people because sometimes I have no idea what to say back. </br> It doesn't mean I dislike you!
 </p>
 
 <h2 align="center">
