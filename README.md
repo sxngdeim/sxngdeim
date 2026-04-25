@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zoro.gif" width="70%">
+  <img src="zoro.gif" width="50%">
 </p>
 
 <p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Zol" alt="Zol" /></p>
@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Nice+to+meet+you" alt="Nice to meet you" />
+  <img src="zosan _ Tumblr.gif" width="25%">
 </p>
