@@ -21,5 +21,9 @@
 </p>
 
 <p align="center">
+𝖨 𝖺𝗅𝗌𝗈 𝗉𝗅𝖺𝗒 𝖫𝗈𝖫 (𝗆𝗈𝗌𝗍𝗅𝗒 𝖠𝖱𝖠𝖬), 𝖿𝖾𝖾𝗅 𝖿𝗋𝖾𝖾 𝗍𝗈 𝗂𝗇𝗍 !
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Nice+to+meet+you" alt="Nice to meet you" />
 </p>
