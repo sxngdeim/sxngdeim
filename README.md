@@ -5,8 +5,7 @@
 <p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Zol" alt="Zol" /></p>
 
 <p align="center">
-  𝖧𝖾𝗅𝗅𝗈! 𝖸𝗈𝗎 𝖼𝖺𝗇 𝖼𝖺𝗅𝗅 𝗆𝖾 '𝖹𝗈𝗅' </br> 𝖨 𝖺𝖼𝗍𝗎𝖺𝗅𝗅𝗒 𝗂𝗇  𝗆𝖺𝗇𝗒 𝖿𝖺𝗇𝖽𝗈𝗆, 𝖻𝗎𝗍 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗂𝗇 𝖮𝗇𝖾 𝖯𝗂𝖾𝖼𝖾 </br> 𝖨'𝗆 𝖺 𝗌𝗅𝗈𝗐 𝗐𝖺𝗍𝖼𝗁𝖾𝗋, just finished Skypiea 𝖺𝗇𝖽 𝗁eading to Water 7!
-</p>
+  𝖧𝖾𝗅𝗅𝗈! 𝖸𝗈𝗎 𝖼𝖺𝗇 𝖼𝖺𝗅𝗅 𝗆𝖾 '𝖹𝗈𝗅' </br> 𝖨 𝖺𝖼𝗍𝗎𝖺𝗅𝗅𝗒 𝗂𝗇  𝗆𝖺𝗇𝗒 𝖿𝖺𝗇𝖽𝗈𝗆, 𝖻𝗎𝗍 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗂𝗇 𝖮𝗇𝖾 𝖯𝗂𝖾𝖼𝖾 </br> 𝖨'𝗆 𝖺 𝗌𝗅𝗈𝗐 𝗐𝖺𝗍𝖼𝗁𝖾𝗋, 𝗃𝗎𝗌𝗍 𝖿𝗂𝗇𝗂𝗌𝗁𝖾𝖽 𝖲𝗄𝗒𝗉𝗂𝖾𝖺 𝖺𝗇𝖽 𝗁𝖾𝖺𝖽𝗂𝗇𝗀 𝗍𝗈 𝖶𝖺𝗍𝖾𝗋 𝟩! </𝗉>
 
 <p align="center">
   𝖬𝗒 𝖮𝖳𝖯 𝗌𝗁𝗂𝗉 𝖺𝗋𝖾 𝖹𝗈𝗌𝖺𝗇, 𝖫𝗎𝗅𝖺𝗐, 𝖲𝗁𝖺𝗇𝗄𝗌𝗆𝗂, 𝖣𝗈𝖿𝗎𝗐𝖺𝗇𝗂, 𝖬𝖺𝗋𝖼𝗈𝖺𝖼𝖾 (𝗇𝗈 𝗌𝗐𝗂𝗍𝖼𝗁, 𝗌𝗋𝗋𝗒)
