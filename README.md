@@ -25,5 +25,6 @@
 </p>
 
 <p align="center">
-  <img src="zosan _ Tumblr.gif" width="25%">
-</p>
+  <img src="zosan _ Tumblr.gif" width="25%"> 
+
+  [![sxngdeim's Discord status](https://dsc-readme.tsuni.dev/api/user/702327447483449415?banner=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1240712045519831141%2F1507163640720130073%2Fefeb613ee24edbbed3321c00f5ef520a.jpg%3Fex%3D6a10e705%26is%3D6a0f9585%26hm%3Daacf8ca887c861eaa4b32602f07045996d4c7b27db73a823a9460b93436bc393%26%3D%26format%3Dwebp%26width%3D1498%26height%3D470&hideDecoration=true&theme=nitroDark&primaryColor=820000&accentColor=000000&width=440)](https://github.com/the-snesler/discord-github-preview)
