@@ -23,4 +23,4 @@
 <p align="center">
   <img src="zosan _ Tumblr.gif" width="25%"> 
 
-  [![sxngdeim's Discord status](https://dsc-readme.tsuni.dev/api/user/702327447483449415?banner=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1240712045519831141%2F1510000899320320304%2F703723027ce559df66715a559debb907.jpg%3Fex%3D6a1b396c%26is%3D6a19e7ec%26hm%3D98ff8f31c531213107bfdc26d22070f7d74d9b98594e8b102bc3eca1e53bbd41%26%3D%26format%3Dwebp%26width%3D675%26height%3D275&theme=nitroDark&primaryColor=0052B0&accentColor=000E4F&width=512)](https://github.com/the-snesler/discord-github-preview)
+ [![sxngdeim's Discord status](https://dsc-readme.tsuni.dev/api/user/702327447483449415?banner=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1240712045519831141%2F1525211883060203550%2F6021227d61567ee6.jpg%3Fex%3D6a528fc1%26is%3D6a513e41%26hm%3D7bd95a2f3655905ed6b9946cd21d8fdf770246b8368950260d553ac2ee681d6d%26%3D%26format%3Dwebp%26width%3D920%26height%3D518&hideDecoration=true&theme=nitroDark&primaryColor=D60000&accentColor=000000&width=512&font=vampyre&effect=neon&nameColor1=ef4444)](https://github.com/the-snesler/discord-github-preview)
