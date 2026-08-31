@@ -27,6 +27,8 @@
 
 <p align="center">
   <img src="tenor(1).gif" width="25%" />
+  <img src="zoo.png" width="15%" />
   <img src="onepiece05_sanji.png" width="15%" />
    <img src="tenor.gif" width="25%" />
+  
 </p>
