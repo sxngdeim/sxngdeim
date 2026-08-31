@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blueribbonn.png" width="100%">
+  <img src="pixelhead.png" width="100%">
 </p>
 <br>
 
